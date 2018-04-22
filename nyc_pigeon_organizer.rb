@@ -14,5 +14,6 @@ def nyc_pigeon_organizer(data)
     "Central Park" => ["Alex", "Ms. K", "Lucky"],
     "Library" => ["Peter Jr."],
     "City Hall" => ["Andrew"]
-  }}
+  }
+}
 end
